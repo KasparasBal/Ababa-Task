@@ -8,7 +8,9 @@ Before starting application - make sure all project dependencies are installed:
 npm install
 ```
 
-Execute this commant to create a docker container with MongoDB
+Execute this commant to create a docker container with MongoDB ( After running this command either press ctrl + c or proceed in another terminal)
+
+You will need docker for the database container.
 
 ```
 docker-compose up
@@ -29,6 +31,11 @@ Execute this command in terminal to start the application:
 
 ```
 npm start
+```
+Execute this command in terminal to build the application:
+
+```
+npm run build
 ```
 
 Execute this command in terminal to watch the application:
