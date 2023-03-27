@@ -1,0 +1,46 @@
+[
+  {
+    "label": "Action",
+    "value": "action"
+  },
+  {
+    "label": "Adventure",
+    "value": "adventure"
+  },
+  {
+    "label": "Animation",
+    "value": "animation"
+  },
+  {
+    "label": "Comedy",
+    "value": "comedy"
+  },
+  {
+    "label": "Crime",
+    "value": "crime"
+  },
+  {
+    "label": "Drama",
+    "value": "drama"
+  },
+  {
+    "label": "Fantasy",
+    "value": "fantasy"
+  },
+  {
+    "label": "Family",
+    "value": "family"
+  },
+  {
+    "label": "Romance",
+    "value": "romance"
+  },
+  {
+    "label": "Science Fiction",
+    "value": "science fiction"
+  },
+  {
+    "label": "Thriller",
+    "value": "thriller"
+  }
+]

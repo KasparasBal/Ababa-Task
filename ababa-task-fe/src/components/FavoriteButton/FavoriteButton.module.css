@@ -1,0 +1,17 @@
+.button {
+  position: absolute;
+  top: 0;
+  background-color: #f1f3f5;
+  color: #e67700;
+  border-radius: 0.5rem;
+  top: 3rem;
+  right: 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #e67700;
+}

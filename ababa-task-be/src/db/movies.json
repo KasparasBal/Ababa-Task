@@ -1,0 +1,218 @@
+[
+  {
+    "id": 48665,
+    "title": "Puss In Boots: The Last Wish",
+    "studio": "DreamWorks Animation",
+    "releaseDate": "2022",
+    "imageUrl": "https://www.dreamworks.com/storage/cms-uploads/puss-in-boots-the-last-wish-poster-thumbnail2.jpg",
+    "genres": ["animation", "adventure", "comedy", "family"],
+    "voteCount": 1632
+  },
+  {
+    "id": 45685,
+    "title": "Black Panther: Wakanda Forever",
+    "studio": "Marvel Studios",
+    "releaseDate": "2022",
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_disney_blackpanther_wakandaforever_1289_d3419b8f.jpeg",
+    "genres": ["action", "adventure", "science fiction"],
+    "voteCount": 1632
+  },
+  {
+    "id": 36524,
+    "title": "The Lord of the Rings: The Return of the King",
+    "studio": "New Line Cinema",
+    "releaseDate": "2003",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "genres": ["adventure", "drama", "fantasy"],
+    "voteCount": 8941
+  },
+  {
+    "id": 75210,
+    "title": "The Notebook",
+    "studio": "New Line Cinema",
+    "releaseDate": "2004",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_FMjpg_UX1000_.jpg",
+    "genres": ["romance", "drama"],
+    "voteCount": 2267
+  },
+  {
+    "id": 92358,
+    "title": "Inception",
+    "studio": "Warner Bros. Pictures",
+    "releaseDate": "2010",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "genres": ["action", "adventure", "science fiction"],
+    "voteCount": 14487
+  },
+  {
+    "id": 48923,
+    "title": "The Silence of the Lambs",
+    "studio": "Orion Pictures",
+    "releaseDate": "1991",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "genres": ["crime", "drama", "thriller"],
+    "voteCount": 6892
+  },
+  {
+    "id": 12345,
+    "title": "The Secret Life of Pets 3",
+    "studio": "Universal Pictures",
+    "releaseDate": "2024",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWJiYmU4NTItZjAyZi00OGQxLTkwNmQtOGE5ODgyYTg0MzY1XkEyXkFqcGdeQXVyMTEzMjQzMDM1._V1_.jpg",
+    "genres": ["animation", "comedy", "family"],
+    "voteCount": 0
+  },
+  {
+    "id": 23456,
+    "title": "Jurassic World: Dominion",
+    "studio": "Universal Pictures",
+    "releaseDate": "2022",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    "genres": ["action", "adventure", "science fiction"],
+    "voteCount": 0
+  },
+  {
+    "id": 34567,
+    "title": "Avatar: The Way of Water",
+    "studio": "20th Century Studios",
+    "releaseDate": "2022",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/639cb80549fa2d228bf3181c/Official-Dolby-Cinema-poster-for--Avatar--The-Way-of-Water-/960x0.jpg?format=jpg&width=960",
+    "genres": ["action", "adventure", "fantasy"],
+    "voteCount": 0
+  },
+  {
+    "id": 45678,
+    "title": "The Matrix Resurrections",
+    "studio": "Warner Bros. Pictures",
+    "releaseDate": "2021",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "genres": ["action", "science fiction"],
+    "voteCount": 0
+  },
+  {
+    "id": 56789,
+    "title": "Spider-Man: No Way Home",
+    "studio": "Marvel Studios",
+    "releaseDate": "2021",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+    "genres": ["action", "adventure", "science fiction"],
+    "voteCount": 0
+  },
+  {
+    "id": 78901,
+    "title": "Frozen 3",
+    "studio": "Walt Disney Animation Studios",
+    "releaseDate": "2024",
+    "imageUrl": "https://screenrant.com/wp-content/uploads/2023/02/frozen-3-temp-poster.jpg",
+    "genres": ["animation", "adventure", "family"],
+    "voteCount": 0
+  },
+  {
+    "id": 54321,
+    "title": "The Last Voyage",
+    "studio": "Warner Bros. Pictures",
+    "releaseDate": "1960",
+    "imageUrl": "https://images.moviesanywhere.com/c9ff4308f92963124b85d8e8415c21cd/dc442d8c-90d4-4e6e-8315-2834fafba2d0.jpg",
+    "genres": ["action", "adventure", "thriller"],
+    "voteCount": 784
+  },
+  {
+    "id": 75842,
+    "title": "Moonlight Sonata",
+    "studio": "Universal Pictures",
+    "releaseDate": "2021",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2M4MGZjZDMtNTYwZi00MGFkLWFjNTUtYzQ1OTY2Yjg1YjQ3XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg",
+    "genres": ["drama", "romance"],
+    "voteCount": 2356
+  },
+  {
+    "id": 96321,
+    "title": "The Secret Garden",
+    "studio": "STX Films",
+    "releaseDate": "2022",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzQ4OGU3NjUtOGRiNS00NmFkLWE4MmMtODhiNmJjMjBmZWNjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "genres": ["family", "fantasy"],
+    "voteCount": 1978
+  },
+  {
+    "id": 13659,
+    "title": "Echoes of War",
+    "studio": "Cinedigm",
+    "releaseDate": "2015",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BODU3MTMyODc3OF5BMl5BanBnXkFtZTgwMDYzODg5NDE@._V1_FMjpg_UX1000_.jpg",
+    "genres": ["drama", "thriller"],
+    "voteCount": 102
+  },
+  {
+    "id": 74398,
+    "title": "The Star Seekers",
+    "studio": "Paramount Pictures",
+    "releaseDate": "2024",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BODEzYWZmY2EtYWYwYy00MmEwLWExZDAtMjk1MDBjZjEzYjc1XkEyXkFqcGdeQXVyNDYzNDg2MTM@._V1_.jpg",
+    "genres": ["science fiction", "adventure"],
+    "voteCount": 625
+  },
+  {
+    "id": 84563,
+    "title": "Love on the Run",
+    "studio": "20th Century Studios",
+    "releaseDate": "2022",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDNjZTJmOTUtMWJhZi00ODVkLWE1YTctZDJjMjU0MDA5YWZhXkEyXkFqcGdeQXVyNTI2MTM5MDY@._V1_.jpg",
+    "genres": ["romance", "comedy"],
+    "voteCount": 1456
+  },
+  {
+    "id": 87654,
+    "title": "The Last Heist",
+    "studio": "Lionsgate",
+    "releaseDate": "2024",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BODY5ZWI3OGYtNjcyOS00ZjU4LWJkMGEtNjhiMDY2Y2JmZGNjXkEyXkFqcGdeQXVyMTg4NzkwMA@@._V1_.jpg",
+    "genres": ["action", "crime", "thriller"],
+    "voteCount": 784
+  },
+  {
+    "id": 93278,
+    "title": "Mystery Of The Hope Diamond",
+    "studio": "Universal Pictures",
+    "releaseDate": "2021",
+    "imageUrl": "https://m.media-amazon.com/images/I/51a5vmeb3ZL.jpg",
+    "genres": ["adventure", "crime", "thriller"],
+    "voteCount": 1234
+  },
+  {
+    "id": 45623,
+    "title": "Jungle Beat: The Movie",
+    "studio": "Sony Pictures Animation",
+    "releaseDate": "2004",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTc5OGUxYzktZGZkYy00ODBlLThhYTQtNDExMGE5YTFhNDk2XkEyXkFqcGdeQXVyMTAyNjY3OTM@._V1_.jpg",
+    "genres": ["animation", "comedy", "family"],
+    "voteCount": 452
+  },
+  {
+    "id": 76589,
+    "title": "Starry Starry Night",
+    "studio": "Warner Bros. Pictures",
+    "releaseDate": "2003",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIwMjE2ODc0OV5BMl5BanBnXkFtZTgwMDMwODk3NTE@._V1_.jpg",
+    "genres": ["drama", "romance"],
+    "voteCount": 789
+  },
+  {
+    "id": 36548,
+    "title": "Into the Blue",
+    "studio": "MGM Studios",
+    "releaseDate": "2005",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmVlM2FhODYtOWFhZi00YmE5LWIwNWUtZDMxNTlkNDgxNTA0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "genres": ["action", "adventure", "crime", "thriller"],
+    "voteCount": 1578
+  },
+  {
+    "id": 72345,
+    "title": "The Time Traveler's Wife",
+    "studio": "Warner Bros. Pictures",
+    "releaseDate": "2023",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWNlN2RmZDktNzllNC00NDVlLTllMzgtZGQ1YmRmZThmZjZmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "genres": ["drama", "romance", "science fiction"],
+    "voteCount": 874
+  }
+]
