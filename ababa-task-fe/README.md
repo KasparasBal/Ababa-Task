@@ -8,7 +8,7 @@ Before starting application - make sure all project dependencies are installed:
 npm install
 ```
 
-Add .env file and fill it with this information
+Add .env file to the root directory and fill it with this information
 
 ```
 VITE_REACT_APP_API_URL = http://localhost:8000
