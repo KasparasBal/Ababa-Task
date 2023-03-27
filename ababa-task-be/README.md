@@ -16,7 +16,7 @@ You will need docker for the database container.
 docker-compose up
 ```
 
-Add .env file and fill it with this information
+Add .env file to the root directory and fill it with this information
 
 ```
 API_SECRET_KEY = 8483ad486468asdadasd
